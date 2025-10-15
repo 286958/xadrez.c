@@ -29,5 +29,6 @@ O programa imprime cada movimento no console, com cores e emojis para tornar a e
 3. Problemas de Codificação no Windows
 
   Se os emojis ou acentos aparecerem "feios" (como ÔÖƒ´©Å), siga estas etapas:
-  chcp 65001
-  .\xadrez.exe
+  ```
+   chcp 65001
+   .\xadrez.exe
